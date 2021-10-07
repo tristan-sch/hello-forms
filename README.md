@@ -6,7 +6,7 @@ This is my assignment for Module 3 Javascript In The Browser - Forms
 
 - Go to the [guide](https://io.tskoli.dev/guides/5f1332d9b279dc27c467cacb)
 
-- Go to the [live preview](xx)
+- Go to the [live preview](https://tristan-sch.github.io/hello-forms/)
 
 ## What did I do?
 
